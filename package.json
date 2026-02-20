@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/tintoreria-cerca-de",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a tintoreria-cerca-de",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/tintoreria-cerca-de.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://mejorhistoria.com/tintoreria-cerca-de-mi/"
+    },
+    "homepage": "https://mejorhistoria.com/tintoreria-cerca-de-mi/"
+}
